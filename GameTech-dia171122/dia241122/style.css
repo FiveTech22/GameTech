@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
+
+
+nav{
+    background-image: url("image/background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-color: #EFF0F4;
+}
+
+.tm-card{
+    height:195px; 
+    width:170px;
+}
+
+.cor-btn{
+    background-color: #009EFF;
+}
+.cor-btn:hover{
+    background-color: #22A39F;
+}
+
+.textprin{
+    font-family: 'Rubik', sans-serif;
+    font-size: 28px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
