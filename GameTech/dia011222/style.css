@@ -22,10 +22,12 @@ body{
 
 .cor-btn{
     font-family: 'Rubik', sans-serif;
+    font-weight: bold;
     background-color: #009EFF;
 }
 .cor-btn:hover{
     background-color:#009dffb3 ;
+    color: #ffffff;
 }
 
 .textprin{
@@ -37,13 +39,15 @@ body{
 }
 
 .btn-lanca{
+    font-family: 'Rubik', sans-serif;
     background-color: #3F0071;
-    color: white;
+    color: #ffffff;
     padding: 10px;
 }
 
 .btn-lanca:hover{
     background-color: #3e0071b6;
+    color: #ffffff62;
 }
 
 .btn-google{
