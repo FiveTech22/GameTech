@@ -49,6 +49,13 @@ body{
     background-color: #3e0071b6;
     color: #ffffff62;
 }
+footer{
+    background-color: #131A34;
+}
+
+footer > div > a{
+    text-decoration: none;
+}
 
 .btn-google{
     background-color: #dd4b39;
@@ -74,11 +81,4 @@ body{
 .btn-google:hover,.btn-insta:hover,.btn-linke:hover,.btn-github:hover{
     background-color: #ffffff;
     color: #000000;
-}
-footer{
-    background-color: #131A34;
-}
-
-footer > div > a{
-    text-decoration: none;
 }
